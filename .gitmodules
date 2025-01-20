@@ -1,0 +1,3 @@
+[submodule "external/madpose"]
+	path = external/madpose
+	url = https://github.com/pablovela5620/madpose
